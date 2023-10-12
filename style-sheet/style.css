@@ -51,7 +51,7 @@ body,html{
 #section-2{
     height: 90vh;
     background-color:#B5CB99 ;
-    background-image: url(img/banner.jpg);
+    background-image: url(/img/banner.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
