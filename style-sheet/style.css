@@ -12,6 +12,9 @@
 body,html{
     width: 100%;
     height: 100%;
+    background-image: url(/img/banner.png);
+    background-position: center;
+    background-size: cover;
 }
 
 #section-1{
